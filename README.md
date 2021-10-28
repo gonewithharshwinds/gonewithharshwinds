@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
 **Studying @ MIT Manipal** <br/>
-→ _Projects | Research | Innovations_
+→ _Projects | Research | Innovations in the programming world._
 <br/>
 → _Specialized in digital graphic design, typography, vector & isometric design_
 
