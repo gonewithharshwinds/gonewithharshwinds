@@ -1,4 +1,5 @@
 ### Hi! I'm Harsh! 👋
+----
 
 <!--
 **gonewithharshwinds/gonewithharshwinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,8 +36,6 @@ Here are some ideas to get you started:
 ![pluto.jl](https://img.shields.io/static/v1?logo=plutojl&label=&message=plutojl&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
-
-----
 
 **Studying @ MIT Manipal** → _Projects | Research | Innovations_
 <br/>
