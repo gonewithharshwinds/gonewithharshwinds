@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 ### <sub>I do research & programming. Athlete & a Graphic Designer by hobby.</sub>
 
-
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
-
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square&link=)
@@ -41,7 +39,7 @@ Here are some ideas to get you started:
 <br/>
 →  _Digital graphic design, typography, vector & isometric design in the hobby world!_
 
-----
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
 <a href="https://twitter.com/leaquadevil">
   <img align="left" alt="Harsh's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -57,3 +55,4 @@ Here are some ideas to get you started:
 </a>
 
 | &nbsp;&nbsp;&nbsp; My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithharshwinds/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Projects 💞 : <sub>&#9660; &#9660; &#9660;</sub>
+----
