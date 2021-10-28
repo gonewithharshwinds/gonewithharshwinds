@@ -21,18 +21,19 @@ Here are some ideas to get you started:
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square&link=)
+![c++](https://img.shields.io/static/v1?logo=cpp&label=&message=cpp&color=111&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square)
 ![julia](https://img.shields.io/static/v1?logo=julia&label=&message=julia&color=111&logoColor=AAA&style=flat-square)
 ![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html5&color=111&logoColor=AAA&style=flat-square)
+![css3](https://img.shields.io/static/v1?logo=css3&label=&message=css3&color=111&logoColor=AAA&style=flat-square)
+
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![atom](https://img.shields.io/static/v1?logo=atom&label=&message=atom&color=111&logoColor=AAA&style=flat-square)
 ![vsc](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=vsc&color=111&logoColor=AAA&style=flat-square)
 ![xcode](https://img.shields.io/static/v1?logo=xcode&label=&message=xcode&color=111&logoColor=AAA&style=flat-square)
-![kicad](https://img.shields.io/static/v1?logo=ki-cad&label=&message=kicad&color=111&logoColor=AAA&style=flat-square)
 ![pluto.jl](https://img.shields.io/static/v1?logo=plutojl&label=&message=plutojl&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
 **Studying @ MIT Manipal** &#12299;_Projects | Research | Innovations_
