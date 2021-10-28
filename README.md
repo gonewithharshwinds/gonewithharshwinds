@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 ### <sub>I do research & programming. Athlete & a Graphic Designer by hobby.</sub>
 
 
-----
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square&link=)
