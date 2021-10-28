@@ -1,7 +1,6 @@
 ### Hi! I'm Harsh! ♑️
 <!--
 **gonewithharshwinds/gonewithharshwinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <sub>I do research & programming. Athlete & a Graphic Designer by hobby.</sub>
+
 
 ----
 
