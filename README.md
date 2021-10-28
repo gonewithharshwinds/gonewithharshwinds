@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![vsc](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=vsc&color=111&logoColor=AAA&style=flat-square)
 ![xcode](https://img.shields.io/static/v1?logo=xcode&label=&message=xcode&color=111&logoColor=AAA&style=flat-square)
 ![kicad](https://img.shields.io/static/v1?logo=ki-cad&label=&message=kicad&color=111&logoColor=AAA&style=flat-square)
-![pluto.jl](https://img.shields.io/static/v1?logo=pluto-jl&label=&message=plutojl&color=111&logoColor=AAA&style=flat-square)
+![pluto.jl](https://img.shields.io/static/v1?logo=plutojl&label=&message=plutojl&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
