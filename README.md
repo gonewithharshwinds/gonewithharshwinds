@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 **Studying @ MIT Manipal** <br/>
 → _Projects | Research | Innovations_
 <br/>
-→ _Specialized in digital graphic design, vector & isometric design_
+→ _Specialized in digital graphic design, typography, vector & isometric design_
 
 ----
 
