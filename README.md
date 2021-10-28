@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <p align="center"><strong>Studying @ MIT Manipal</strong></p>
 <p align="center">→ _Projects | Research | Innovations in the programming world._
 <br/>
-→  _Digital graphic design, typography, vector & isometric design in the hobby world!_</p>
+→  _Digital graphic design, typography, vector & isometric design in my hobby world!_</p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
