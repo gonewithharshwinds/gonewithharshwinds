@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 ![xcode](https://img.shields.io/static/v1?logo=xcode&label=&message=xcode&color=111&logoColor=AAA&style=flat-square)
 ![pluto.jl](https://img.shields.io/static/v1?logo=plutojl&label=&message=plutojl&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
-![skills](https://img.shields.io/static/v1?label=&message=skills:&color=555&style=flat-square)
-![ml](https://img.shields.io/static/v1?logo=machine-learning&label=&message=ml&color=111&logoColor=AAA&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
 **Studying @ MIT Manipal** &#12299;_Projects | Research | Innovations_
