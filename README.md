@@ -55,4 +55,4 @@ Here are some ideas to get you started:
   <img align="left" alt="Harsh's Dribbble" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithharshwinds/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Projects : <sub>&#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithharshwinds/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Projects 💞 : <sub>&#9660; &#9660; &#9660;</sub>
