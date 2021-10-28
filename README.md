@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-**Studying @ MIT Manipal** → 
+**Studying @ MIT Manipal** → <br/>
 _Projects | Research | Innovations_
 <br/>
-**Digital Artist & Creator** → 
+**Digital Artist & Creator** → <br/>
 _specialized in graphic design, vector & isometric design_
 
 ----
