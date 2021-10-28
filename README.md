@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square&link=)
-![c++](https://img.shields.io/static/v1?logo=cpp&label=&message=cpp&color=111&logoColor=AAA&style=flat-square)
+![c++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=111&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square)
 ![julia](https://img.shields.io/static/v1?logo=julia&label=&message=julia&color=111&logoColor=AAA&style=flat-square)
 ![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html5&color=111&logoColor=AAA&style=flat-square)
 ![css3](https://img.shields.io/static/v1?logo=css3&label=&message=css3&color=111&logoColor=AAA&style=flat-square)
-
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![atom](https://img.shields.io/static/v1?logo=atom&label=&message=atom&color=111&logoColor=AAA&style=flat-square)
