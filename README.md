@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-<p align="center"><strong>Studying @ MIT Manipal</strong></p><br/>
+<p align="center"><strong>Studying @ MIT Manipal</strong></p>
 <p align="center">→ _Projects | Research | Innovations in the programming world._
 <br/>
 →  _Digital graphic design, typography, vector & isometric design in the hobby world!_</p>
