@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<sup> ♑️ &#12299;I do research & programming. Athlete & a Graphic Designer by hobby.</sup>
+### <sup> ♑️ &#12299;I do research & programming. Athlete & a Graphic Designer by hobby.</sup>
 
 ----
 
