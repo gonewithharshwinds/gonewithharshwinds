@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-**Senior Data & Platform Engineer** &#12299;_working in Reliability Analytics & Automation_
+**Studying @ MIT Manipal** &#12299;_Projects | Research | Innovations_
 <br/>
-**Digital Artist & Creator** &#12299;_specialised in environmental pixel art and 8bit-ish art_
+**Digital Artist & Creator** &#12299;_specialised in graphic design, vector & isometric design_
 
 ----
 
