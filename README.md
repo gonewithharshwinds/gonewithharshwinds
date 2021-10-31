@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 ![figma](https://img.shields.io/static/v1?logo=figma&label=&message=figma&color=111&logoColor=660000&style=flat-square)
 
 <p align="center"><strong>Studying @ MIT Manipal</strong></p>
-<p align="center">→ _Projects | Research | Innovations in the programming world._
+<p align="center">→ Projects | Research | Innovations in the programming world.
 <br/>
-→  _Digital graphic design, typography, vector & isometric design in my hobby world!_</p>
+→  Digital graphic design, typography, vector & isometric design in my hobby world! </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
