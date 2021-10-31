@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
-My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithharshwinds/) |&nbsp;&nbsp;&nbsp;
+My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithharshwinds/) &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/leaquadevil">
   <img align="right" alt="Harsh's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -64,7 +64,7 @@ My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithhar
 <a href="https://dribbble.com/gonewithharshwinds">
   <img align="right" alt="Harsh's Dribbble" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>| &nbsp;&nbsp;&nbsp; 
-<sub>&#9660;&#9660;&#9660;</sub> My Projects <sub>&#9660;&#9660;&#9660;</sub> 
+<sub>&#9660;&#9660;&#9660;</sub> My Projects <sub>&#9660;&#9660;&#9660;</sub> |
 &nbsp;&nbsp;&nbsp;
 
 ----
