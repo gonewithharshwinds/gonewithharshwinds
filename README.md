@@ -64,6 +64,6 @@ My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithhar
 </a>
 <a href="https://dribbble.com/gonewithharshwinds">
   <img align="left" alt="Harsh's Dribbble" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>| &nbsp;&nbsp;&nbsp; Open Source Projects 💞 : <sub>&#9660; &#9660; &#9660;</sub> &nbsp;&nbsp;&nbsp;
+</a>| &nbsp;&nbsp;&nbsp; My Projects 💞 : <sub>&#9660;</sub> &nbsp;&nbsp;&nbsp;
 
 ----
