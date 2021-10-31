@@ -53,16 +53,18 @@ Here are some ideas to get you started:
 
 My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithharshwinds/) |&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/leaquadevil">
-  <img align="center" alt="Harsh's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" alt="Harsh's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/gonewith_harsh_winds/">
-  <img align="center" alt="Harsh's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="right" alt="Harsh's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://linkedin.com/in/harsh-mehta-79611813a/">
-  <img align="center" alt="Harsh's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Harsh's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://dribbble.com/gonewithharshwinds">
-  <img align="center" alt="Harsh's Dribbble" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>| &nbsp;&nbsp;&nbsp; My Projects 💞 : <sub>&#9660;</sub> &nbsp;&nbsp;&nbsp;
+  <img align="right" alt="Harsh's Dribbble" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+</a>| &nbsp;&nbsp;&nbsp; 
+My Projects 💞 : <sub>&#9660;</sub> 
+&nbsp;&nbsp;&nbsp;
 
 ----
