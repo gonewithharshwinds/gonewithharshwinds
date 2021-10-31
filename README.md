@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <sub>I do research & programming. Athlete & a Graphic Designer by hobby.</sub>
+### <sub>I do research & programming. Athlete & UI-UX Designer by hobby.</sub>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
