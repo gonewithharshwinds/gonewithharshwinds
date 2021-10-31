@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![graphics](https://img.shields.io/static/v1?label=&message=graphics:&color=555&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 ![affinity](https://img.shields.io/static/v1?logo=affinity&label=&message=affinity&color=111&logoColor=82ACF0&style=flat-square)
-![figma](https://img.shields.io/static/v1?logo=figma&label=&message=figma&color=111&logoColor=330000&style=flat-square)
+![figma](https://img.shields.io/static/v1?logo=figma&label=&message=figma&color=111&logoColor=660000&style=flat-square)
 
 <p align="center"><strong>Studying @ MIT Manipal</strong></p>
 <p align="center">→ _Projects | Research | Innovations in the programming world._
