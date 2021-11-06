@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![c++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=111&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square)
 ![julia](https://img.shields.io/static/v1?logo=julia&label=&message=julia&color=111&logoColor=AAA&style=flat-square)
+![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=111&logoColor=AAA&style=flat-square)
 ![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html5&color=111&logoColor=AAA&style=flat-square)
 ![css3](https://img.shields.io/static/v1?logo=css3&label=&message=css3&color=111&logoColor=AAA&style=flat-square)
 ![arduino](https://img.shields.io/static/v1?logo=arduino&label=&message=arduino&color=111&logoColor=AAA&style=flat-square)
