@@ -64,12 +64,12 @@ My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithhar
 </a>
 <a href="https://dribbble.com/gonewithharshwinds">
   <img align="right" alt="Harsh's Dribbble" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>| &nbsp;&nbsp;&nbsp; 
-<sub>&#9660;&#9660;&#9660;</sub> My Projects <sub>&#9660;&#9660;&#9660;</sub>
-&nbsp;&nbsp;&nbsp;
-
+</a>| 
 ----
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=gonewithharshwinds&layout=compact&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonewithharshwinds&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/gonewithharshwinds/github-readme-stats)
+
+&nbsp;&nbsp;&nbsp; 
+<sub>&#9660;&#9660;&#9660;</sub> My Projects <sub>&#9660;&#9660;&#9660;</sub>
+&nbsp;&nbsp;&nbsp;
