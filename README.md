@@ -69,3 +69,5 @@ My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithhar
 &nbsp;&nbsp;&nbsp;
 
 ----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonewithharshwinds&layout=compact)](https://github.com/gonewithharshwinds/github-readme-stats)
