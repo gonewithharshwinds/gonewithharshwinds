@@ -34,9 +34,10 @@ Here are some ideas to get you started:
 ![atom](https://img.shields.io/static/v1?logo=atom&label=&message=atom&color=111&logoColor=AAA&style=flat-square)
 ![vsc](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=vsc&color=111&logoColor=AAA&style=flat-square)
 ![xcode](https://img.shields.io/static/v1?logo=xcode&label=&message=xcode&color=111&logoColor=AAA&style=flat-square)
-![pluto.jl](https://img.shields.io/static/v1?logo=plutojl&label=&message=plutojl&color=111&logoColor=AAA&style=flat-square)
+![[colab](https://img.shields.io/static/v1?logo=colab&label=&message=colab&color=111&logoColor=AAA&style=flat-square)
 ![jupyter](https://img.shields.io/static/v1?logo=jupyter&label=&message=jupyter&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
+![pluto.jl](https://img.shields.io/static/v1?logo=plutojl&label=&message=plutojl&color=111&logoColor=AAA&style=flat-square)
 ![learning](https://img.shields.io/static/v1?label=&message=learning:&color=555&style=flat-square)
 ![swift](https://img.shields.io/static/v1?logo=swift&label=&message=swift&color=111&logoColor=AAA&style=flat-square)
 ![django](https://img.shields.io/static/v1?logo=django&label=&message=django&color=111&logoColor=AAA&style=flat-square)
@@ -45,6 +46,7 @@ Here are some ideas to get you started:
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 ![affinity](https://img.shields.io/static/v1?logo=affinity&label=&message=affinity&color=111&logoColor=82ACF0&style=flat-square)
 ![figma](https://img.shields.io/static/v1?logo=figma&label=&message=figma&color=111&logoColor=660000&style=flat-square)
+
 
 <p align="center"><strong>Studying @ MIT Manipal</strong></p>
 <p align="center">→ Projects | Research | Innovations in the programming world.
