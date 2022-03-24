@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![atom](https://img.shields.io/static/v1?logo=atom&label=&message=atom&color=111&logoColor=AAA&style=flat-square)
 ![vsc](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=vsc&color=111&logoColor=AAA&style=flat-square)
 ![xcode](https://img.shields.io/static/v1?logo=xcode&label=&message=xcode&color=111&logoColor=AAA&style=flat-square)
-![colab](https://img.shields.io/static/v1?logo=colab&label=&message=colab&color=111&logoColor=AAA&style=flat-square)
+![colab](https://img.shields.io/static/v1?logo=google&label=&message=colab&color=111&logoColor=AAA&style=flat-square)
 ![jupyter](https://img.shields.io/static/v1?logo=jupyter&label=&message=jupyter&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![pluto.jl](https://img.shields.io/static/v1?logo=plutojl&label=&message=plutojl&color=111&logoColor=AAA&style=flat-square)
