@@ -75,6 +75,9 @@ My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithhar
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonewithharshwinds&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonewithharshwinds&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/gonewithharshwinds/github-readme-stats)
 
+![Visitor Count (01/01/20 onwards)](https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg)
+
 &nbsp;&nbsp;&nbsp; 
 <sub>&#9660;&#9660;&#9660;</sub> My Projects <sub>&#9660;&#9660;&#9660;</sub>
 &nbsp;&nbsp;&nbsp;
+
