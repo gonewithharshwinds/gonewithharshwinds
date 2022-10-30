@@ -22,30 +22,30 @@ Here are some ideas to get you started:
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![c++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=111&logoColor=AAA&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square)
-![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=111&logoColor=AAA&style=flat-square)
-![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html5&color=111&logoColor=AAA&style=flat-square)
-![css3](https://img.shields.io/static/v1?logo=css3&label=&message=css3&color=111&logoColor=AAA&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=py&color=111&logoColor=AAA&style=flat-square)
+![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html&color=111&logoColor=AAA&style=flat-square)
+![css3](https://img.shields.io/static/v1?logo=css3&label=&message=css&color=111&logoColor=AAA&style=flat-square)
+![js](https://img.shields.io/static/v1?logo=javascript&label=&message=js&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![vsc](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=vsc&color=111&logoColor=AAA&style=flat-square)
 ![colab](https://img.shields.io/static/v1?logo=google&label=&message=colab&color=111&logoColor=AAA&style=flat-square)
-![jupyter](https://img.shields.io/static/v1?logo=jupyter&label=&message=jupyter&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vimc&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![learning](https://img.shields.io/static/v1?label=&message=learning:&color=555&style=flat-square)
 ![julia](https://img.shields.io/static/v1?logo=julia&label=&message=julia&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
+![familiar](https://img.shields.io/static/v1?label=&message=familiar:&color=555&style=flat-square)
+![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square)
+![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=111&logoColor=AAA&style=flat-square)
 ![graphics](https://img.shields.io/static/v1?label=&message=graphics:&color=555&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 ![affinity](https://img.shields.io/static/v1?logo=affinity&label=&message=affinity&color=111&logoColor=82ACF0&style=flat-square)
 ![figma](https://img.shields.io/static/v1?logo=figma&label=&message=figma&color=111&logoColor=660000&style=flat-square)
 
 
-<p align="center"><strong>Studying @ MIT Manipal</strong></p>
-<p align="center">→ Projects | Research | Innovations in the programming world.
-<br/>
-  →  UI-UX, typography, vector & isometric design in my hobby world! </p>
+  <p align="center"><strong>Final Year @ MIT Manipal</strong></p>
+<p align="center">→ Researcher | Programmer | Developer | Innovator | Writer </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
