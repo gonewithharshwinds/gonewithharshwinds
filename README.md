@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <sub>I do research & programming. Swimming & UX Design by hobby.</sub>
+### <sub> I do research & programming. I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, computational mathematics, and artificial intelligence. </sub>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
