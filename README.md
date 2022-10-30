@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
-![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square&link=)
 ![c++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=111&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square)
 ![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=111&logoColor=AAA&style=flat-square)
