@@ -1,7 +1,9 @@
 ----
 ## gonewithharshwinds♑
 ````Julia
-print("Hi! I'm Harsh!") #julialang
+if sad() == true
+   sad().stop()
+   println("Be Awesome")  #julialang
 ````
 <!--
 **gonewithharshwinds/gonewithharshwinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
