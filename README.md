@@ -1,10 +1,17 @@
 ----
 ## gonewithharshwinds♑
-````Julia
-if sad() == true
-   sad().stop()
-   println("Be Awesome")  #julialang
-````
+```
+struct Life
+    optimise::Function
+end
+
+function optimise_life(l::Life)
+    l.optimize()
+end
+
+l = Life(() -> println("Perpetually optimising life..."))
+optimise_life(l)
+```
 <!--
 **gonewithharshwinds/gonewithharshwinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -18,7 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <sub> As a researcher and programmer, I strive to bridge the gap between diverse disciplines, teams, and industries. My passion for connecting the dots has led me to explore the intersections of engineering, computational mathematics, and artificial intelligence. Through this journey, I have developed a strong technical skill set that enables me to tackle complex challenges and derive meaningful insights. As an aspiring data scientist, I am driven by the pursuit of knowledge and innovation. With my unique blend of creativity and analytical rigor, I am committed to making a positive impact in the world of data science. </sub>
+### <sub> As a researcher and programmer, I strive to bridge the gap between diverse disciplines, teams, and industries. My passion for connecting the dots has led me to explore the intersections of engineering, computational mathematics, and artificial intelligence. </sub>
+### <sub> Through this journey, I have developed a strong technical skill set that enables me to tackle complex challenges and derive meaningful insights. As an aspiring data scientist, I am driven by the pursuit of knowledge and innovation. With my unique blend of creativity and analytical rigor, I am committed to making a positive impact in the world of data science. </sub>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
@@ -100,10 +108,10 @@ My World : [https://harshmehta.dev/](https://harshmehta.dev/) &nbsp;&nbsp;&nbsp;
 ![Visitor Count (01/01/20 onwards)](https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg)
 
 &nbsp;&nbsp;&nbsp; 
-<sub>&#9660;&#9660;&#9660;</sub> Certifications (with certification links)<sub>&#9660;&#9660;&#9660;</sub>
+<sub>&#9660;&#9660;&#9660;</sub> Certifications (with links)<sub>&#9660;&#9660;&#9660;</sub>
 &nbsp;&nbsp;&nbsp;
 
 [![Coursera](https://img.shields.io/badge/Coursera-Introduction%20to%20Python%20Scripting%20for%20DevOps-blue?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/BFN3682HL4RB)
 [![Coursera](https://img.shields.io/badge/Coursera-Introduction%20to%20Cybersecurity%20Tools%20%26%20Cyber%20Attacks-blue?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/8L9R7BDP3EB9)
 [![Coursera](https://img.shields.io/badge/Coursera-Introduction%20to%20Bash%20Shell%20Scripting-blue?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/4FMGVJK353RF)
-[![Oracle SQL Basics](https://img.shields.io/badge/Oracle%20SQL%20Basics-Coursera-blue)](https://www.coursera.org/account/accomplishments/certificate/KPQ68MSWW3R9)
+[![Oracle SQL Basics](https://img.shields.io/badge/Coursera-Oracle%20SQL%20Basics-blue?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/KPQ68MSWW3R9)
