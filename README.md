@@ -18,32 +18,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <sub> I do research & programming. I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, computational mathematics, and artificial intelligence. </sub>
+### <sub> As a researcher and programmer, I strive to bridge the gap between diverse disciplines, teams, and industries. My passion for connecting the dots has led me to explore the intersections of engineering, computational mathematics, and artificial intelligence. Through this journey, I have developed a strong technical skill set that enables me to tackle complex challenges and derive meaningful insights. As an aspiring data scientist, I am driven by the pursuit of knowledge and innovation. With my unique blend of creativity and analytical rigor, I am committed to making a positive impact in the world of data science. </sub>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
-![c++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=111&logoColor=AAA&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=py&color=111&logoColor=AAA&style=flat-square)
-![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html&color=111&logoColor=AAA&style=flat-square)
-![css3](https://img.shields.io/static/v1?logo=css3&label=&message=css&color=111&logoColor=AAA&style=flat-square)
-![js](https://img.shields.io/static/v1?logo=javascript&label=&message=js&color=111&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
-![vsc](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=vsc&color=111&logoColor=AAA&style=flat-square)
-![colab](https://img.shields.io/static/v1?logo=google&label=&message=colab&color=111&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vimc&color=111&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![learning](https://img.shields.io/static/v1?label=&message=learning:&color=555&style=flat-square)
-![julia](https://img.shields.io/static/v1?logo=julia&label=&message=julia&color=111&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![familiar](https://img.shields.io/static/v1?label=&message=familiar:&color=555&style=flat-square)
-![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square)
-![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=111&logoColor=AAA&style=flat-square)
-![graphics](https://img.shields.io/static/v1?label=&message=graphics:&color=555&style=flat-square)
-![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
-![affinity](https://img.shields.io/static/v1?logo=affinity&label=&message=affinity&color=111&logoColor=82ACF0&style=flat-square)
-![figma](https://img.shields.io/static/v1?logo=figma&label=&message=figma&color=111&logoColor=660000&style=flat-square)
+```<<Languages & Scipts>>```
+![python](https://img.shields.io/static/v1?label=&message=python&color=555&style=flat-square&logo=python&logoColor=white&logoWidth=30) 
+![sql](https://img.shields.io/static/v1?label=&message=sql&color=555&style=flat-square&logo=sql&logoColor=white&logoWidth=30) 
+![cpp](https://img.shields.io/static/v1?label=&message=cpp&color=555&style=flat-square&logo=cpp&logoColor=white&logoWidth=30)
+![html5](https://img.shields.io/static/v1?label=&message=html&color=555&style=flat-square&logo=html5&logoColor=white&logoWidth=30) 
+![scss](https://img.shields.io/static/v1?label=&message=scss&color=555&style=flat-square&logo=sass&logoColor=white&logoWidth=30) 
+![js](https://img.shields.io/static/v1?label=&message=javascript&color=555&style=flat-square&logo=javascript&logoColor=white&logoWidth=30) 
+![MEAN stack](https://img.shields.io/static/v1?label=&message=MEAN-stack&color=555&style=flat-square&logo=mean-stack&logoColor=white&logoWidth=30) 
+![java](https://img.shields.io/static/v1?label=&message=java&color=555&style=flat-square&logo=java&logoColor=white&logoWidth=30)
+
+
+```<<Code Tools>>```
+![vsc](https://img.shields.io/static/v1?label=&message=vsc&color=555&style=flat-square&logo=visual-studio-code&logoColor=white&logoWidth=30) 
+![colab](https://img.shields.io/static/v1?label=&message=colab&color=555&style=flat-square&logo=google-colab&logoColor=white&logoWidth=30) 
+![emacs](https://img.shields.io/static/v1?label=&message=emacs&color=555&style=flat-square&logo=gnu-emacs&logoColor=white&logoWidth=30)
+
+
+```<<Deep & ML>>```
+![Scikit](https://img.shields.io/static/v1?label=&message=scikit&color=555&style=flat-square&logo=scikit-learn&logoColor=white&logoWidth=30) 
+![tensorflow](https://img.shields.io/static/v1?label=&message=tensorflow&color=555&style=flat-square&logo=tensorflow&logoColor=white&logoWidth=30) 
+![keras](https://img.shields.io/static/v1?label=&message=keras&color=555&style=flat-square&logo=keras&logoColor=white&logoWidth=30) 
+
+```<<Management>>```
+![jira](https://img.shields.io/static/v1?label=&message=jira&color=555&style=flat-square&logo=jira&logoColor=white&logoWidth=30) 
+![notion](https://img.shields.io/static/v1?label=&message=notion&color=555&style=flat-square&logo=notion&logoColor=white&logoWidth=30) 
+![athens research](https://img.shields.io/static/v1?label=&message=athens-research&color=555&style=flat-square&logo=athens-research&logoColor=white&logoWidth=30)
+
+```<<Analytics>>```
+![tableau](https://img.shields.io/static/v1?label=&message=tableau&color=555&style=flat-square&logo=tableau&logoColor=white&logoWidth=30) 
+![bi](https://img.shields.io/static/v1?label=&message=bi&color=555&style=flat-square&logo=power-bi&logoColor=white&logoWidth=30) 
+![matplotlib](https://img.shields.io/static/v1?label=&message=matplotlib&color=555&style=flat-square&logo=matplotlib&logoColor=white&logoWidth=30) 
+![knime](https://img.shields.io/static/v1?label=&message=knime&color=555&style=flat-square&logo=knime&logoColor=white&logoWidth=30) 
+![rapidminer](https://img.shields.io/static/v1?label=&message=rapidminer&color=555&style=flat-square&logo=rapidminer&logoColor=white&logoWidth=30) 
+
+```<<Design>>```
+![adobe](https://img.shields.io/static/v1?label=&message=adobe&color=555&style=flat-square&logo=adobe&logoColor=white&logoWidth=30) 
+![affinity](https://img.shields.io/static/v1?label=&message=affinity&color=555&style=flat-square&logo=affinity&logoColor=white&logoWidth=30) 
+![figma](https://img.shields.io/static/v1?label=&message=figma&color=555&style=flat-square&logo=figma&logoColor=white&logoWidth=30)
+
+```<<Upskilling>>```
+![julia](https://img.shields.io/static/v1?label=&message=julia&color=555&style=flat-square&logo=julia&logoColor=white&logoWidth=30)
 
 
   <p align="center"><strong>Final Year @ MIT Manipal</strong></p>
@@ -52,10 +71,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
 
-My World : [https://linktr.ee/gonewithharshwinds/](https://linktr.ee/gonewithharshwinds/) &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/leaquadevil">
-  <img align="right" alt="Harsh's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+My World : [https://harshmehta.dev/](https://harshmehta.dev/) &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/gonewith_harsh_winds/">
   <img align="right" alt="Harsh's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
