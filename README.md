@@ -1,12 +1,13 @@
 ----
-## gonewithharshwinds♑
-```
+## goneh4rsh ♑
+
+```julia Perpetually Optimising Life...
 struct Life
     optimise::Function
 end
 
 function optimise_life(l::Life)
-    l.optimize()
+    l.optimise()
 end
 
 l = Life(() -> println("Perpetually optimising life..."))
