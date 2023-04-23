@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
+- As of Apr 2023
+
+```<<Experience>>```
+
+![role](https://img.shields.io/badge/Role-Software%20Development-brightgreen?style=flat-square) ![](https://img.shields.io/badge/5%20months-blue?style=flat-square) ![role](https://img.shields.io/badge/Role-Business%20Development-brightgreen?style=flat-square) ![](https://img.shields.io/badge/3%20months-blue?style=flat-square)
+
 ```<<Languages & Scipts>>```
 ![python](https://img.shields.io/static/v1?label=&message=python&color=555&style=flat-square&logo=python&logoColor=white&logoWidth=30) 
 ![sql](https://img.shields.io/static/v1?label=&message=sql&color=555&style=flat-square&logo=sql&logoColor=white&logoWidth=30) 
@@ -63,6 +69,10 @@ Here are some ideas to get you started:
 
 ```<<Upskilling>>```
 ![julia](https://img.shields.io/static/v1?label=&message=julia&color=555&style=flat-square&logo=julia&logoColor=white&logoWidth=30)
+
+```<<Plans>>```
+![nlp](https://img.shields.io/static/v1?label=&message=nlp&color=555&style=flat-square&logo=Natural-Language-Processing&logoColor=white&logoWidth=30)
+![hadoop](https://img.shields.io/static/v1?label=&message=hadoop&color=555&style=flat-square&logo=Apache-Hadoop&logoColor=white&logoWidth=30)
 
 
   <p align="center"><strong>Final Year @ MIT Manipal</strong></p>
