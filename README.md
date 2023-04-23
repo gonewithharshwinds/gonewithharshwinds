@@ -100,6 +100,10 @@ My World : [https://harshmehta.dev/](https://harshmehta.dev/) &nbsp;&nbsp;&nbsp;
 ![Visitor Count (01/01/20 onwards)](https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg)
 
 &nbsp;&nbsp;&nbsp; 
-<sub>&#9660;&#9660;&#9660;</sub> My Projects <sub>&#9660;&#9660;&#9660;</sub>
+<sub>&#9660;&#9660;&#9660;</sub> Certifications (with certification links)<sub>&#9660;&#9660;&#9660;</sub>
 &nbsp;&nbsp;&nbsp;
 
+[![Coursera](https://img.shields.io/badge/Coursera-Introduction%20to%20Python%20Scripting%20for%20DevOps-blue?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/BFN3682HL4RB)
+[![Coursera](https://img.shields.io/badge/Coursera-Introduction%20to%20Cybersecurity%20Tools%20%26%20Cyber%20Attacks-blue?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/8L9R7BDP3EB9)
+[![Coursera](https://img.shields.io/badge/Coursera-Introduction%20to%20Bash%20Shell%20Scripting-blue?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/4FMGVJK353RF)
+[![Oracle SQL Basics](https://img.shields.io/badge/Oracle%20SQL%20Basics-Coursera-blue)](https://www.coursera.org/account/accomplishments/certificate/KPQ68MSWW3R9)
