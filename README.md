@@ -1,18 +1,35 @@
 ----
-## goneh4rsh ♑
+## || goneh4rsh <!--♑-->  || ![Capricorn](https://img.icons8.com/ios/16/ffffff/capricorn.png) ||
 
-```julia Perpetually Optimising Life...
+
+
+<div align="center">
+  <a href="https://github.com/special-repo">
+    <img src="https://img.shields.io/badge/Final%20Year%20@%20MIT%20Manipal-FF5733?style=for-the-badge&logoColor=white">
+  </a>
+</div>
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Research%20→%20Program%20→%20Innovate-555?style=for-the-badge&logoColor=white" width="200" height="18">
+  </a>
+</div>
+
+
+
+
+```julia 
+#perpetual
 struct Life
     optimise::Function
 end
 
-function optimise_life(l::Life)
-    l.optimise()
-end
+optimise_life(l::Life) = l.optimise()
 
-l = Life(() -> println("Perpetually optimising life..."))
+l = Life(() -> println("Optimizing life like it's your full-time job..."))
 optimise_life(l)
+
 ```
+
 <!--
 **gonewithharshwinds/gonewithharshwinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -26,66 +43,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <sub> As a researcher and programmer, I strive to bridge the gap between diverse disciplines, teams, and industries. My passion for connecting the dots has led me to explore the intersections of engineering, computational mathematics, and artificial intelligence. </sub>
+
+
+### <sub> As a programmer and researcher, I strive to bridge the gap between diverse disciplines, teams, and industries. My passion for connecting the dots has led me to explore the intersections of engineering, computational mathematics, and artificial intelligence. </sub>
 ### <sub> Through this journey, I have developed a strong technical skill set that enables me to tackle complex challenges and derive meaningful insights. As an aspiring data scientist, I am driven by the pursuit of knowledge and innovation. With my unique blend of creativity and analytical rigor, I am committed to making a positive impact in the world of data science. </sub>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
-- As of Apr 2023
+- As of Jun 2023
 
-```<<Experience>>```
+|```<<Role>>```|```<<Experience>>```|```<<Sector>>```|
+|-|-|-|
+|![role](https://img.shields.io/badge/Role-MLnAI-brightgreen?style=flat-square)| ![](https://img.shields.io/badge/4%20months-blue?style=flat-square)| [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat-square)](https://opensource.org/) |
+|![role](https://img.shields.io/badge/Role-SDT-brightgreen?style=flat-square)| ![](https://img.shields.io/badge/6%20months-blue?style=flat-square)| [![IT Services](https://img.shields.io/badge/Industry-IT%20Services-blue?style=flat-square)](https://en.wikipedia.org/wiki/IT_service_management) + [![IT Software](https://img.shields.io/badge/Industry-IT%20Software-orange?style=flat-square)](https://en.wikipedia.org/wiki/Software_industry)|
+|![role](https://img.shields.io/badge/Role-BDT-brightgreen?style=flat-square) | ![](https://img.shields.io/badge/4%20months-blue?style=flat-square)| [![IT Software](https://img.shields.io/badge/Industry-IT%20Software-orange?style=flat-square)](https://en.wikipedia.org/wiki/Software_industry)|
 
-![role](https://img.shields.io/badge/Role-Software%20Development-brightgreen?style=flat-square) ![](https://img.shields.io/badge/5%20months-blue?style=flat-square) ![role](https://img.shields.io/badge/Role-Business%20Development-brightgreen?style=flat-square) ![](https://img.shields.io/badge/3%20months-blue?style=flat-square)
+| Purpose                        | Software                                                                                                                                                    |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `<<Programming/Coding>>`      | ![python](https://img.shields.io/badge/Python-555?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-555?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/C++-555?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| `<<Scripting>>`               | ![html5](https://img.shields.io/badge/HTML-555?style=for-the-badge&logo=html5&logoColor=white) ![scss](https://img.shields.io/badge/SCSS-555?style=for-the-badge&logo=sass&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-555?style=for-the-badge&logo=javascript&logoColor=white) |
+| `<<Upskilling or Planned>>`   | ![pytorch](https://img.shields.io/badge/PyTorch-555?style=for-the-badge&logo=pytorch&logoColor=white) ![julia](https://img.shields.io/badge/Julia-555?style=for-the-badge&logo=julia&logoColor=white) ![R Language](https://img.shields.io/badge/R-555?style=for-the-badge&logo=R&logoColor=white) ![keras](https://img.shields.io/badge/Keras-555?style=for-the-badge&logo=keras&logoColor=white) |
+| `<<Code Tools>>`              | ![vsc](https://img.shields.io/badge/VS_Code-555?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![colab](https://img.shields.io/badge/Colab-555?style=for-the-badge&logo=google-colab&logoColor=white) ![emacs](https://img.shields.io/badge/Emacs-555?style=for-the-badge&logo=gnu-emacs&logoColor=white) |
+| `<<Deep & ML>>`               | ![Scikit](https://img.shields.io/badge/Scikit--learn-555?style=for-the-badge&logo=scikit-learn&logoColor=white) ![tensorflow](https://img.shields.io/badge/TensorFlow-555?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| `<<Analytics>>`               | ![tableau](https://img.shields.io/badge/Tableau-555?style=for-the-badge&logo=tableau&logoColor=white) ![bi](https://img.shields.io/badge/BI-555?style=for-the-badge&logo=power-bi&logoColor=white) [![Plotly](https://img.shields.io/badge/Plotly-555?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/) |
+| `<<Management>>`              | ![jira](https://img.shields.io/badge/Jira-555?style=for-the-badge&logo=jira&logoColor=white) ![notion](https://img.shields.io/badge/Notion-555?style=for-the-badge&logo=notion&logoColor=white) ![athens research](https://img.shields.io/badge/Athens_Research-555?style=for-the-badge&logo=athens-research&logoColor=white) |
+| `<<Design>>`                  | ![adobe](https://img.shields.io/badge/Adobe-555?style=for-the-badge&logo=adobe&logoColor=white) ![affinity](https://img.shields.io/badge/Affinity-555?style=for-the-badge&logo=affinity&logoColor=white) ![figma](https://img.shields.io/badge/Figma-555?style=for-the-badge&logo=figma&logoColor=white) |
+| `<<Limited Knowledge>>`             | [![Java](https://img.shields.io/badge/Java-555?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) ![RapidMiner](https://img.shields.io/badge/RapidMiner-555?style=for-the-badge&logo=rapidminer&logoColor=white) ![KNIME](https://img.shields.io/badge/KNIME-555?style=for-the-badge&logo=knime&logoColor=white) |
+| ```<<Familiar>>``` |![MEAN Stack](https://img.shields.io/badge/MEAN_Stack-555?style=for-the-badge&logo=mean-stack&logoColor=white) &rarr; ![MongoDB](https://img.shields.io/badge/MongoDB-555?style=for-the-badge&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-555?style=for-the-badge&logo=express&logoColor=white)![Angular](https://img.shields.io/badge/Angular-555?style=for-the-badge&logo=angular&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-555?style=for-the-badge&logo=node.js&logoColor=white)|
 
-```<<Languages & Scipts>>```
-![python](https://img.shields.io/static/v1?label=&message=python&color=555&style=flat-square&logo=python&logoColor=white&logoWidth=30) 
-![sql](https://img.shields.io/static/v1?label=&message=sql&color=555&style=flat-square&logo=sql&logoColor=white&logoWidth=30) 
-![cpp](https://img.shields.io/static/v1?label=&message=cpp&color=555&style=flat-square&logo=cpp&logoColor=white&logoWidth=30)
-![html5](https://img.shields.io/static/v1?label=&message=html&color=555&style=flat-square&logo=html5&logoColor=white&logoWidth=30) 
-![scss](https://img.shields.io/static/v1?label=&message=scss&color=555&style=flat-square&logo=sass&logoColor=white&logoWidth=30) 
-![js](https://img.shields.io/static/v1?label=&message=javascript&color=555&style=flat-square&logo=javascript&logoColor=white&logoWidth=30) 
-![MEAN stack](https://img.shields.io/static/v1?label=&message=MEAN-stack&color=555&style=flat-square&logo=mean-stack&logoColor=white&logoWidth=30) 
-![java](https://img.shields.io/static/v1?label=&message=java&color=555&style=flat-square&logo=java&logoColor=white&logoWidth=30)
-
-
-```<<Code Tools>>```
-![vsc](https://img.shields.io/static/v1?label=&message=vsc&color=555&style=flat-square&logo=visual-studio-code&logoColor=white&logoWidth=30) 
-![colab](https://img.shields.io/static/v1?label=&message=colab&color=555&style=flat-square&logo=google-colab&logoColor=white&logoWidth=30) 
-![emacs](https://img.shields.io/static/v1?label=&message=emacs&color=555&style=flat-square&logo=gnu-emacs&logoColor=white&logoWidth=30)
-
-
-```<<Deep & ML>>```
-![Scikit](https://img.shields.io/static/v1?label=&message=scikit&color=555&style=flat-square&logo=scikit-learn&logoColor=white&logoWidth=30) 
-![tensorflow](https://img.shields.io/static/v1?label=&message=tensorflow&color=555&style=flat-square&logo=tensorflow&logoColor=white&logoWidth=30) 
-![keras](https://img.shields.io/static/v1?label=&message=keras&color=555&style=flat-square&logo=keras&logoColor=white&logoWidth=30) 
-
-```<<Management>>```
-![jira](https://img.shields.io/static/v1?label=&message=jira&color=555&style=flat-square&logo=jira&logoColor=white&logoWidth=30) 
-![notion](https://img.shields.io/static/v1?label=&message=notion&color=555&style=flat-square&logo=notion&logoColor=white&logoWidth=30) 
-![athens research](https://img.shields.io/static/v1?label=&message=athens-research&color=555&style=flat-square&logo=athens-research&logoColor=white&logoWidth=30)
-
-```<<Analytics>>```
-![tableau](https://img.shields.io/static/v1?label=&message=tableau&color=555&style=flat-square&logo=tableau&logoColor=white&logoWidth=30) 
-![bi](https://img.shields.io/static/v1?label=&message=bi&color=555&style=flat-square&logo=power-bi&logoColor=white&logoWidth=30) 
-![matplotlib](https://img.shields.io/static/v1?label=&message=matplotlib&color=555&style=flat-square&logo=matplotlib&logoColor=white&logoWidth=30) 
-![knime](https://img.shields.io/static/v1?label=&message=knime&color=555&style=flat-square&logo=knime&logoColor=white&logoWidth=30) 
-![rapidminer](https://img.shields.io/static/v1?label=&message=rapidminer&color=555&style=flat-square&logo=rapidminer&logoColor=white&logoWidth=30) 
-
-```<<Design>>```
-![adobe](https://img.shields.io/static/v1?label=&message=adobe&color=555&style=flat-square&logo=adobe&logoColor=white&logoWidth=30) 
-![affinity](https://img.shields.io/static/v1?label=&message=affinity&color=555&style=flat-square&logo=affinity&logoColor=white&logoWidth=30) 
-![figma](https://img.shields.io/static/v1?label=&message=figma&color=555&style=flat-square&logo=figma&logoColor=white&logoWidth=30)
-
-```<<Upskilling>>```
-![julia](https://img.shields.io/static/v1?label=&message=julia&color=555&style=flat-square&logo=julia&logoColor=white&logoWidth=30)
-
-```<<Plans>>```
-![nlp](https://img.shields.io/static/v1?label=&message=nlp&color=555&style=flat-square&logo=Natural-Language-Processing&logoColor=white&logoWidth=30)
-![hadoop](https://img.shields.io/static/v1?label=&message=hadoop&color=555&style=flat-square&logo=Apache-Hadoop&logoColor=white&logoWidth=30)
-
-
-  <p align="center"><strong>Final Year @ MIT Manipal</strong></p>
-<p align="center">→ Researcher | Programmer | Developer | Innovator | Writer </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
@@ -100,13 +85,30 @@ My World : [https://harshmehta.dev/](https://harshmehta.dev/) &nbsp;&nbsp;&nbsp;
 <a href="https://dribbble.com/gonewithharshwinds">
   <img align="right" alt="Harsh's Dribbble" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>| 
-----
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=gonewithharshwinds&layout=compact&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonewithharshwinds&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonewithharshwinds&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/gonewithharshwinds/github-readme-stats)
+<!--
+|Github Statistics|Streak|Top Languages|
+|-|-|-|
+|![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=gonewithharshwinds&layout=compact&show_icons=true&theme=tokyonight)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonewithharshwinds&layout=compact&theme=tokyonight)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonewithharshwinds&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/gonewithharshwinds/github-readme-stats)|
 
 ![Visitor Count (01/01/20 onwards)](https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg)
+-->
+<table>
+  <tr>
+    <th>Github Statistics</th>
+    <th>Streak</th>
+    <th>Top Languages</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gonewithharshwinds&layout=compact&show_icons=true&theme=tokyonight" alt="Harsh's github stats"></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gonewithharshwinds&layout=compact&theme=tokyonight" alt="GitHub Streak"></a></td>
+    <td><a href="https://github.com/gonewithharshwinds/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonewithharshwinds&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs"></a></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg" alt="Visitor Count (01/01/20 onwards)"></td>
+  </tr>
+</table>
+
+
 
 &nbsp;&nbsp;&nbsp; 
 <sub>&#9660;&#9660;&#9660;</sub> Certifications (with links)<sub>&#9660;&#9660;&#9660;</sub>
