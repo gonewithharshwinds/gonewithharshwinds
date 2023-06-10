@@ -1,8 +1,12 @@
-----
-## || goneh4rsh <!--♑-->  || ![Capricorn](https://img.icons8.com/ios/16/ffffff/capricorn.png) ||
+<div align="left">
+  <a width="100%">
+    <img src="https://img.shields.io/badge/→→→||%20g%20o%20n%20e%20h%204%20r%20s%20h%20||←←←-ffffff?style=for-the-badge&logoColor=black" width="100%" alt="||goneh4rsh||">
+  </a>
+</div>
 
+<!--##||goneh4rsh♑||![Capricorn](https://img.icons8.com/ios/16/ffffff/capricorn.png)||-->
 
-
+<hr>
 <div align="center">
   <a href="https://github.com/special-repo">
     <img src="https://img.shields.io/badge/Final%20Year%20@%20MIT%20Manipal-FF5733?style=for-the-badge&logoColor=white">
@@ -10,12 +14,11 @@
 </div>
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Research%20→%20Program%20→%20Innovate-555?style=for-the-badge&logoColor=white" width="200" height="18">
+    <img src="https://img.shields.io/badge/Research%20→%20Program%20→%20Innovate-555?style=for-the-badge&logoColor=white" width="200" height="20">
   </a>
 </div>
 
-
-
+<br>
 
 ```julia 
 #perpetual
