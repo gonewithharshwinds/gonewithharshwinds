@@ -106,13 +106,25 @@ My World : [https://harshmehta.dev/](https://harshmehta.dev/) &nbsp;&nbsp;&nbsp;
     <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gonewithharshwinds&layout=compact&theme=tokyonight" alt="GitHub Streak"></a></td>
     <td><a href="https://github.com/gonewithharshwinds/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonewithharshwinds&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs"></a></td>
   </tr>
-  <tr>
     <td colspan="3" align="center"><img src="https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg" alt="Visitor Count (01/01/20 onwards)"></td>
   </tr>
 </table>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gonewithharshwinds&theme=onedark)](https://github.com/gonewithharshwinds/github-profile-trophy)
 
-
+<a href="https://github.com/shelcia">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shelcia&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
+</a>
+<a href="https://github.com/shelcia">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shelcia&theme=chartreuse-dark&layout=compact&hide_border=true" width="43%" />
+</a>
+<!--
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shelcia&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+</div>
+<div align="center">
+</div>
+-->
 &nbsp;&nbsp;&nbsp; 
 <sub>&#9660;&#9660;&#9660;</sub> Coursera Certifications (with links)<sub>&#9660;&#9660;&#9660;</sub>
 &nbsp;&nbsp;&nbsp;
