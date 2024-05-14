@@ -112,12 +112,7 @@ My World : [https://harshmehta.dev/](https://harshmehta.dev/) &nbsp;&nbsp;&nbsp;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gonewithharshwinds&theme=onedark)](https://github.com/gonewithharshwinds/github-profile-trophy)
 
-<a href="https://github.com/shelcia">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shelcia&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
-</a>
-<a href="https://github.com/shelcia">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shelcia&theme=chartreuse-dark&layout=compact&hide_border=true" width="43%" />
-</a>
+
 <!--
 <div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shelcia&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
