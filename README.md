@@ -146,11 +146,9 @@ Here are some ideas to get you started:
 </div>
 -->
 &nbsp;&nbsp;&nbsp;
-![Metrics](https://metrics.lecoq.io/gonewithharshwinds?template=classic&habits=1&achievements=1&leetcode=1&repositories=1&languages=1&lines=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&leetcode=false&leetcode.user=.user.login&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta)
-&nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  &#9660;&#9660;&#9660; Coursera Certifications (with links) &#9660;&#9660;&#9660;
+  &#9660;&#9660;&#9660; Certificates (with links) &#9660;&#9660;&#9660;
 </p>
 
 <p align="center">
@@ -182,3 +180,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LearnQuest-Introduction%20to%20Python%20Shell%20Scripting%20for%20DevOps-blue?style=flat-square&logo=LearnQuest&logoColor=white"  />
   </a>
 </p>
+<p align="center">
+  &#9660;&#9660;&#9660; Statistics &#9660;&#9660;&#9660;
+</p>
+
+&nbsp;&nbsp;&nbsp;
+
+![Metrics](https://metrics.lecoq.io/gonewithharshwinds?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta)
+
+&nbsp;&nbsp;&nbsp;
