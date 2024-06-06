@@ -128,6 +128,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+  &#9660;&#9660;&#9660; LeetCode Stats &#9660;&#9660;&#9660;
+</p>
+
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/TheProbablyHarsh?theme=nord&font=Quattrocento%20Sans&ext=activity&border=1&animation=fadeIn" alt="LeetCode Stats">
 </p>
 
@@ -148,7 +152,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  &#9660;&#9660;&#9660; Certificates (with links) &#9660;&#9660;&#9660;
+  &#9660;&#9660;&#9660; Certificates (linked) &#9660;&#9660;&#9660;
 </p>
 
 <p align="center">
@@ -186,6 +190,7 @@ Here are some ideas to get you started:
 
 &nbsp;&nbsp;&nbsp;
 
-![Metrics](https://metrics.lecoq.io/gonewithharshwinds?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta)
-
+<p align="center">
+  <img src="https://metrics.lecoq.io/gonewithharshwinds?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=0&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta"  />
+</p>
 &nbsp;&nbsp;&nbsp;
