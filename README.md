@@ -1,113 +1,84 @@
+<hr>
 <div align="center">
-  <img src="https://img.shields.io/badge/Harsh_Ajay_Mehta-Product_Designer_&_UX_Strategist-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMTJDMiA2LjQ3NyA2LjQ3NyAyIDEyIDJMMTIgMkMxNy41MjMgMiAyMiA2LjQ3NyAyMiAxMk0yIDEyQzIgMTcuNTIzIDYuNDc3IDIyIDEyIDIyTDEyIDIyQzE3LjUyMyAyMiAyMiAxNy41MjMgMjIgMTJNM
-iAxMkg4TTIyIDEySDE2TTQgMTZINC4wMU00IDhINC4wMU04IDRWOE04IDE2VjIwTTE2IDRWOE0xNiAxNlYyME0yMCA4SDIwLjAxTTIwIDE2SDIwLjAxIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K" alt="Harsh Ajay Mehta || Product Designer & UX Strategist"/>
+  <a href="https://github.com/special-repo">
+    <img src="https://img.shields.io/badge/Product%20Designer%20with%20UX%20UI%20Specialization-FF5733?style=for-the-badge&logoColor=white">
+  </a>
+</div>
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Research%20→%20Innovate%20→%20Design-555?style=for-the-badge&logoColor=white" width="200" height="20">
+  </a>
 </div>
 
-<div align="center">
-  <h3>Connecting the dots between humans, data, and design.</h3>
-  <p>I thrive on untangling complex problems and building intuitive, human-centered digital experiences. Whether it's mapping user journeys, architecting scalable design systems, or diving into data, my goal is to create products that are not only beautiful but brilliantly effective. Currently exploring the intersection of <strong>Machine Learning</strong> and <strong>Human-Computer Interaction (HCI)</strong>.</p>
-</div>
+<br>
 
-```javascript
-// Github Online...
-const designerDeveloperHybrid = {
-  name: "Harsh",
-  mood: "Fueled by coffee and user feedback",
-  skills: ["Pixel Pushing", "Pun-chline Coding", "Centering Divs (on a good day)"],
+```julia 
+#perpetual
+struct Life
+    optimise::Function
+end
 
-  create: function(idea) {
-    if (!idea) {
-      console.error("Error: Idea is null. Please provide caffeine.");
-      return;
-    }
-    console.log(`Bringing '${idea}' to life... with style and a few console logs.`);
-    const isCentered = this.centerDiv();
-    return isCentered ? "🚀 It's alive... and perfectly aligned!" : "CSS is awesome.";
-  },
+optimise_life(l::Life) = l.optimise()
 
-  centerDiv: function() {
-    // The eternal struggle
-    return Math.random() > 0.5; // Let's be realistic, it's a 50/50 shot.
-  }
-};
+l = Life(() -> println("Optimizing life like it's your full-time job..."))
+optimise_life(l)
 
-designerDeveloperHybrid.create("A truly intuitive UI");
 ```
 
----
+<!--
+**gonewithharshwinds/gonewithharshwinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
-### <p align="center">🚀 My Professional Toolkit</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Core Expertise</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/UX_Strategy-FF5733?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/UI_Design-581845?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Design_Systems-900C3F?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/User_Research-C70039?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Prototyping-DAF7A6?style=for-the-badge&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Design & Prototyping</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Affinity-1B73E8?style=for-the-badge&logo=affinity-designer&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tech & Code</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-    <tr>
-    <td align="center"><strong>ML & Data</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-    </td>
-  </tr>
-</table>
 
----
+### <sub> I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.  </sub>
+### <sub> Currently, I am active in Software Engineer : Machine Learning related roles. I also take a keen interest towards Human Computer Interactions (UX & UED)  </sub>
 
-### <p align="center">💼 Professional Experience</p>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
-- **UI Designer (Product)** @ [11211218 Canada Inc](https://www.linkedin.com/company/11211218-canada-inc/) `(Nov 2024 - Present)`
-  - 🏗️ Designed a modular back-office ERP prototype for a road-construction firm, boosting workflow efficiency by ~50%.
-  - 🤖 Led user interviews and competitive audits to build a scalable design system from the ground up.
+- As of Jun 2024 
 
-- **UX Strategy & UI Design (Freelance)** `(May 2023 - Nov 2024)`
-  - 🎨 Crafted visual identities, prototypes, and UX architecture for a diverse range of clients.
+|```<<Role>>```|```<<Experience>>```|```<<Sector>>```|
+|-|-|-|
+|![role](https://img.shields.io/badge/Role-MLnAI-brightgreen?style=flat-square)| ![](https://img.shields.io/badge/1%20year-blue?style=flat-square)| [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat-square)](https://opensource.org/) |
+|![role](https://img.shields.io/badge/Role-SDT-brightgreen?style=flat-square)| ![](https://img.shields.io/badge/6%20months-blue?style=flat-square)| [![IT Services](https://img.shields.io/badge/Industry-IT%20Services-blue?style=flat-square)](https://en.wikipedia.org/wiki/IT_service_management) + [![IT Software](https://img.shields.io/badge/Industry-IT%20Software-orange?style=flat-square)](https://en.wikipedia.org/wiki/Software_industry)|
+|![role](https://img.shields.io/badge/Role-BDT-brightgreen?style=flat-square) | ![](https://img.shields.io/badge/4%20months-blue?style=flat-square)| [![IT Software](https://img.shields.io/badge/Industry-IT%20Software-orange?style=flat-square)](https://en.wikipedia.org/wiki/Software_industry)|
 
-- **Business Development Trainee** @ [Intellipaat](https://intellipaat.com/) `(Jan 2023 - May 2023)`
-  - 📈 Advised professionals on career-aligned learning paths, driving conversions through consultative engagement.
+| Purpose                        | Software                                                                                                                                                    |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `<<Programming/Coding>>`      | ![python](https://img.shields.io/badge/Python-555?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-555?style=for-the-badge&logo=mysql&logoColor=white) [![Java](https://img.shields.io/badge/Java-555?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) ![C++](https://img.shields.io/badge/C++-555?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| `<<Deep & ML>>`               | ![Scikit](https://img.shields.io/badge/Scikit--learn-555?style=for-the-badge&logo=scikit-learn&logoColor=white) ![tensorflow](https://img.shields.io/badge/TensorFlow-555?style=for-the-badge&logo=tensorflow&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-555?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-555?style=for-the-badge&logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-555?style=for-the-badge&logo=matplotlib&logoColor=white) ![sns](https://img.shields.io/badge/seaborn-555?style=for-the-badge&logo=seaborn&logoColor=white) ...|
+| `<<Scripting>>`               | ![html5](https://img.shields.io/badge/HTML-555?style=for-the-badge&logo=html5&logoColor=white) ![scss](https://img.shields.io/badge/SCSS-555?style=for-the-badge&logo=sass&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-555?style=for-the-badge&logo=javascript&logoColor=white) |
+| `<<Upskilling / Planned>>`   | ![pytorch](https://img.shields.io/badge/PyTorch-555?style=for-the-badge&logo=pytorch&logoColor=white) ![keras](https://img.shields.io/badge/Keras-555?style=for-the-badge&logo=keras&logoColor=white) |
+| `<<Code Tools>>`              | ![vsc](https://img.shields.io/badge/VS_Code-555?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![colab](https://img.shields.io/badge/Colab-555?style=for-the-badge&logo=google-colab&logoColor=white) ![emacs](https://img.shields.io/badge/Emacs-555?style=for-the-badge&logo=gnu-emacs&logoColor=white) |
+| `<<Analytics>>`               | ![tableau](https://img.shields.io/badge/Tableau-555?style=for-the-badge&logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/lookerstudio-555?style=for-the-badge&logo=lookerstudio&logoColor=white) |
+| `<<Documentation & Management>>`              | ![jira](https://img.shields.io/badge/Jira-555?style=for-the-badge&logo=jira&logoColor=white) ![notion](https://img.shields.io/badge/Notion-555?style=for-the-badge&logo=notion&logoColor=white) ![overleaf](https://img.shields.io/badge/overleaf-555?style=for-the-badge&logo=overleaf&logoColor=white) ![logseq](https://img.shields.io/badge/logseq-555?style=for-the-badge&logo=logseq&logoColor=white) |
+| `<<Design>>`                  | ![adobe](https://img.shields.io/badge/Adobe-555?style=for-the-badge&logo=adobe&logoColor=white) ![affinity](https://img.shields.io/badge/Affinity-555?style=for-the-badge&logo=affinity&logoColor=white) ![figma](https://img.shields.io/badge/Figma-555?style=for-the-badge&logo=figma&logoColor=white) |
+| `<<Limited Experience>>`             |  ![RapidMiner](https://img.shields.io/badge/RapidMiner-555?style=for-the-badge&logo=rapidminer&logoColor=white) ![KNIME](https://img.shields.io/badge/KNIME-555?style=for-the-badge&logo=knime&logoColor=white) ![React](https://img.shields.io/badge/react-555?style=for-the-badge&logo=react&logoColor=white) |
 
----
 
-<h1 align="center">Find Me in My Natural Habitats</h1>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+
+<h1 align="center">My World</h1>
 
 <p align="center">
-  <a href="https://mehtaharsh.xyz/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMTJDMiA2LjQ3NyA2LjQ3NyAyIDEyIDJMMTIgMkMxNy41MjMgMiAyMiA2LjQ3NyAyMiAxMk0yIDEyQzIgMTcuNTIzIDYuNDc3IDIyIDEyIDIyTDEyIDIyQzE3LjUyMyAyMiAyMiAxNy41MjMgMjIgMTJNM
-iAxMkg4TTIyIDEySDE2TTQgMTZINC4wMU00IDhINC4wMU04IDRWOE04IDE2VjIwTTE2IDRWOE0xNiAxNlYyME0yMCA4SDIwLjAxTTIwIDE2SDIwLjAxIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K" />
+  <a href="https://harshmehta.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/goneh4rsh/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/h4rsh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.behance.net/harshmehta67">
-    <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="https://dribbble.com/gonewithharshwinds">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
@@ -126,16 +97,78 @@ iAxMkg4TTIyIDEySDE2TTQgMTZINC4wMU00IDhINC4wMU04IDRWOE04IDE2VjIwTTE2IDRWOE0xNiAxN
     <td><a href="https://github.com/gonewithharshwinds/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonewithharshwinds&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs"></a></td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><img src="https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg" alt="Visitor Count"></td>
+    <td colspan="3" align="center"><img src="https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg" alt="Visitor Count (01/01/20 onwards)"></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gonewithharshwinds&theme=onedark&column=7" alt="Github Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=gonewithharshwinds&theme=onedark" alt="Github Trophies">
 </p>
 
 <p align="center">
-  <a href="https://leetcard.jacoblin.cool/TheProbablyHarsh?theme=nord&font=Quattrocento%20Sans&ext=activity">
-    <img src="https://leetcard.jacoblin.cool/TheProbablyHarsh?theme=nord&font=Quattrocento%20Sans&ext=activity&border=1&animation=fadeIn" alt="LeetCode Stats">
+  &#9660;&#9660;&#9660; LeetCode Stats &#9660;&#9660;&#9660;
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/TheProbablyHarsh?theme=nord&font=Quattrocento%20Sans&ext=activity&border=1&animation=fadeIn" alt="LeetCode Stats">
+</p>
+
+<!--
+|Github Statistics|Streak|Top Languages|
+|-|-|-|
+|![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=gonewithharshwinds&layout=compact&show_icons=true&theme=tokyonight)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonewithharshwinds&layout=compact&theme=tokyonight)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonewithharshwinds&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/gonewithharshwinds/github-readme-stats)|
+
+![Visitor Count (01/01/20 onwards)](https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg)
+-->
+<!--
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shelcia&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+</div>
+<div align="center">
+</div>
+-->
+&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+  &#9660;&#9660;&#9660; Certificates (linked) &#9660;&#9660;&#9660;
+</p>
+
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/IBM-Generative%20AI%20for%20Data%20Scientists-9cf?style=flat-square&logo=IBM&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/Johns%20Hopkins%20University-Cancer%20Biology-9cf?style=flat-square&logo=Johns%20Hopkins%20University&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/Johns%20Hopkins%20University-Genomic%20Data%20Science-9cf?style=flat-square&logo=Johns%20Hopkins%20University&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/DeepLearning.AI-Introduction%20to%20Machine%20Learning%20in%20Production-blue?style=flat-square&logo=Deeplearning.AI&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/Meta-Introduction%20to%20Mobile%20Development-blue?style=flat-square&logo=Meta&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/Meta-Introduction%20to%20Mobile%20Development-blue?style=flat-square&logo=Meta&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/IBM-Introduction%20to%20Cybersecurity%20Tools%20&%20Cyber%20Attacks-blue?style=flat-square&logo=IBM&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/LearnQuest-Oracle%20SQL%20Basics-blue?style=flat-square&logo=LearnQuest&logoColor=white"  />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/LearnQuest-Introduction%20to%20Python%20Shell%20Scripting%20for%20DevOps-blue?style=flat-square&logo=LearnQuest&logoColor=white"  />
   </a>
 </p>
+<p align="center">
+  &#9660;&#9660;&#9660; Statistics &#9660;&#9660;&#9660;
+</p>
+
+&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/gonewithharshwinds?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=0&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta"  />
+</p>
+&nbsp;&nbsp;&nbsp;
