@@ -23,12 +23,12 @@
 <hr>
 <div align="center">
   <a href="https://github.com/special-repo">
-    <img src="https://img.shields.io/badge/Software%20Engineer%20in%20Machine%20Learning-FF5733?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Product%20Designer%20with%20UX%20UI%20Specialization-FF5733?style=for-the-badge&logoColor=white">
   </a>
 </div>
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Design%20→%20Develop%20→%20Innovate-555?style=for-the-badge&logoColor=white" width="200" height="20">
+    <img src="https://img.shields.io/badge/Research%20→%20Innovate%20→%20Design-555?style=for-the-badge&logoColor=white" width="200" height="20">
   </a>
 </div>
 
