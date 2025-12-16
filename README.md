@@ -87,15 +87,16 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gonewithharshwinds&theme=onedark" alt="Github Trophies">
 </p>
-
+<!--
 <p align="center">
   &#9660;&#9660;&#9660; LeetCode Stats &#9660;&#9660;&#9660;
 </p>
-
+-->
+<!--
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/TheProbablyHarsh?theme=nord&font=Quattrocento%20Sans&ext=activity&border=1&animation=fadeIn" alt="LeetCode Stats">
 </p>
-
+-->
 <!--
 |Github Statistics|Streak|Top Languages|
 |-|-|-|
