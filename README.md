@@ -41,23 +41,21 @@ Here are some ideas to get you started:
 
 
 ### <sub> I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.  </sub>
-### <sub> Currently, I am active in Software Engineer : Machine Learning related roles. I also take a keen interest towards Human Computer Interactions (UX & UED)  </sub>
+### <sub> Currently, I am an active Product Designer : UI / UX Specialist.  </sub>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
-- As of Jun 2024 
-
-
+- As of Dec 2025
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
 <h1 align="center">My World</h1>
 
 <p align="center">
-  <a href="https://harshmehta.dev/">
+  <a href="https://mehtaharsh.xyz/">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/goneh4rsh/">
+  <a href="https://www.instagram.com/theprobablyharsh/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/h4rsh/">
@@ -66,12 +64,15 @@ Here are some ideas to get you started:
   <a href="https://dribbble.com/gonewithharshwinds">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
+   <a href="https://behance.net/harshmehta67">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=behance&logoColor=white" />
+   </a>
 </p>
 
 <table align="center">
   <tr>
     <th>Github Statistics</th>
-    <th>Streak</th>
+    <!--<th>Streak</th>-->
     <th>Top Languages</th>
   </tr>
   <tr>
@@ -84,9 +85,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gonewithharshwinds&theme=onedark" alt="Github Trophies">
-</p>
+</p>-->
 <!--
 <p align="center">
   &#9660;&#9660;&#9660; LeetCode Stats &#9660;&#9660;&#9660;
