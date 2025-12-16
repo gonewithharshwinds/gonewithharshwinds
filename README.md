@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=gonewithharshwinds&layout=compact&show_icons=true&theme=tokyonight" alt="Harsh's github stats"></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gonewithharshwinds&layout=compact&theme=tokyonight" alt="GitHub Streak"></a></td>
+    <!--<td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gonewithharshwinds&layout=compact&theme=tokyonight" alt="GitHub Streak"></a></td>-->
     <td><a href="https://github.com/gonewithharshwinds/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonewithharshwinds&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs"></a></td>
   </tr>
   <tr>
