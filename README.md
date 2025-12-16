@@ -1,4 +1,5 @@
-<hr>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+<!--<hr>-->
 <div align="center">
   <a href="https://github.com/special-repo">
     <img src="https://img.shields.io/badge/Product%20Designer%20with%20UX%20UI%20Specialization-FF5733?style=for-the-badge&logoColor=white">
@@ -40,16 +41,13 @@ Here are some ideas to get you started:
 -->
 
 
-### <sub> I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.  </sub>
-### <sub> Currently, I am an active Product Designer : UI / UX Specialist.  </sub>
+### <sub> I am an aspiring product designer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.  </sub>
+
+<i>Dec 2025</i>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
-- As of Dec 2025
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
-
-<h1 align="center">My World</h1>
+<!--<h1 align="center">My World</h1>-->
 
 <p align="center">
   <a href="https://mehtaharsh.xyz/">
@@ -80,9 +78,9 @@ Here are some ideas to get you started:
     <!--<td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gonewithharshwinds&layout=compact&theme=tokyonight" alt="GitHub Streak"></a></td>-->
     <td><a href="https://github.com/gonewithharshwinds/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonewithharshwinds&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs"></a></td>
   </tr>
-  <tr>
+  <!--<tr>
     <td colspan="3" align="center"><img src="https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg" alt="Visitor Count (01/01/20 onwards)"></td>
-  </tr>
+  </tr>-->
 </table>
 
 <!--<p align="center">
@@ -114,7 +112,7 @@ Here are some ideas to get you started:
 -->
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">
+<!--<p align="center">
   &#9660;&#9660;&#9660; Certificates (linked) &#9660;&#9660;&#9660;
 </p>
 
@@ -146,7 +144,7 @@ Here are some ideas to get you started:
   <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID">
     <img src="https://img.shields.io/badge/LearnQuest-Introduction%20to%20Python%20Shell%20Scripting%20for%20DevOps-blue?style=flat-square&logo=LearnQuest&logoColor=white"  />
   </a>
-</p>
+</p>-->
 <p align="center">
   &#9660;&#9660;&#9660; Statistics &#9660;&#9660;&#9660;
 </p>
