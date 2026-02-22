@@ -2,28 +2,41 @@
 <!--<hr>-->
 <div align="center">
   <a href="https://github.com/special-repo">
-    <img src="https://img.shields.io/badge/Product%20Designer%20with%20UX%20UI%20Specialization-FF5733?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Software%20Product%20Strategy%20&%20Design%20Consulting-FF5733?style=for-the-badge&logoColor=white">
   </a>
 </div>
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Research%20→%20Innovate%20→%20Design-555?style=for-the-badge&logoColor=white" width="200" height="20">
+    <img src="https://img.shields.io/badge/Research%20→%20Innovate%20→%20Design→%20Develop-555?style=for-the-badge&logoColor=white" width="200" height="20">
   </a>
 </div>
 
 <br>
 
 ```julia 
-#perpetual
-struct Life
+# perpetual_deployment.jl
+
+struct ProductArchitect
+    custom_toolchains::Vector{String}
+    consulting_focus::String
     optimise::Function
 end
 
-optimise_life(l::Life) = l.optimise()
+function deploy_expertise(p::ProductArchitect)
+    println("[SYSTEM] Booting bespoke $(p.custom_toolchains[1]) environment...")
+    println("[SYSTEM] Initializing $(p.custom_toolchains[2]) workflow...")
+    println("[STRATEGY] Sourcing top-tier $(p.consulting_focus) advice...")
+    p.optimise()
+end
 
-l = Life(() -> println("Optimizing life like it's your full-time job..."))
-optimise_life(l)
+# The Blueprint
+me = ProductArchitect(
+    ["NixOS", "Vexalis Hub"],
+    "Software Product Strategy & Design",
+    () -> println("Outcome: Architecting scalable UI/UX that makes legacy enterprise systems look like a joke. Optimizing life and code like it's a bloodsport.")
+)
 
+deploy_expertise(me)
 ```
 
 <!--
