@@ -31,9 +31,9 @@ end
 
 # The Blueprint
 me = ProductArchitect(
-    ["NixOS", "Vexalis Hub"],
+    ["NixOS", "Vexalis Hub (self-created)", "Figma", "Notion"],
     "Software Product Strategy & Design",
-    () -> println("Outcome: Architecting scalable UI/UX that makes legacy enterprise systems look like a joke. Optimizing life and code like it's a bloodsport.")
+    () -> println("Outcome: Architecting scalable UI/UX that makes legacy & modern enterprise systems look like ancient. Optimizing life and code like it's a bloodsport.")
 )
 
 deploy_expertise(me)
